@@ -10,8 +10,4 @@ A simple console-based **Student Management System** in Python.
 - Update profile (with optional password change)
 - Logout and exit
 
-## How to Run
 
-```bash
-python student_management_system.py
-```
